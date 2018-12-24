@@ -1,11 +1,11 @@
 # webpack-demo
 
 项目目录：
-build
-config
-dist
-node_modules
-packages (公用包，最好不依赖第三方）
+*build
+*config
+*dist
+*node_modules
+*packages (公用包，最好不依赖第三方）
 	ui（UI库  alert, toast, picker, modal...） 
 		alert
 			template.art
@@ -16,7 +16,7 @@ packages (公用包，最好不依赖第三方）
 	less （底层less）
 		common.less
  	README.md
-src
+*src
 	@shared (共享组件、工具、方法、第三方应用)
         components（UI组件）
             example1
